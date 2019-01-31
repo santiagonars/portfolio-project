@@ -1,7 +1,7 @@
 # portfolio-project
 Personal portfolio using Django
 ------------------------------------------------------------------------------------------------
-=> This repository contains all the code for creating a personal portfolio project using Django.
+=> This repository contains all the code for creating a personal portfolio project using the Django web framework.
 
 Need:
 - Django 2.1
