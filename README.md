@@ -3,7 +3,7 @@ Personal portfolio using Django
 ------------------------------------------------------------------------------------------------
 => This repository contains all the code for creating a personal portfolio project using the Django web framework.
 
-Need:
+Requires:
 - Django 2.1
 - Python 3.6
 - PosgreSQL 11
