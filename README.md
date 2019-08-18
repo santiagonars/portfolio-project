@@ -5,6 +5,6 @@ Personal portfolio using Django
 
 Requires:
 - Django 2.1
-- Python 3.6
-- PosgreSQL 11
-- All bootstrap source files
+    -> Python 3.6
+- PosgreSQL 11 (Database)
+- All bootstrap source files (Front-end)
